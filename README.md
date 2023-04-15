@@ -1,2 +1,3 @@
 # Azurecloud
-info on cloud
+Info on cloud
+General notes and scripts
